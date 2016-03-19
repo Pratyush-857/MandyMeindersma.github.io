@@ -1,14 +1,16 @@
 <h1>Vote for Mandi</h1>
 
 <script language="javascript" type="text/javascript">
-    var clicks ;
+	var total_clicks =0;
+    var clicks =0;
     function onClick() {
         clicks += 1;
         document.getElementById("clicks").innerHTML = clicks;
     };
+    total_clicks=total_clicks+clicks;
 </script>
 <button type="button" onClick="onClick()">Click me</button>
-<p>Clicks: <a id="clicks">0</a></p>
+<p>Clicks: <a id="total_clicks">0</a></p>
 
 
 </script>
