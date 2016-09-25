@@ -5,12 +5,13 @@
     var clicks =0;
     function onClick() {
         clicks += 1;
+		total_clicks=total_clicks+clicks;
         document.getElementById("clicks").innerHTML = clicks;
     };
-    total_clicks=total_clicks+clicks;
+    
 </script>
 <button type="button" onClick="onClick()">Click me</button>
-<p>Clicks: <a id="total_clicks"></a></p>
+<p>Clicks: <a id="total_clicks">0</a></p>
 
 
 </script>
