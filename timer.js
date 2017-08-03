@@ -1,5 +1,5 @@
 //new Date(year, month, day, hours, minutes, seconds, milliseconds)
-window.countDownDate = new Date(2019, 4, 30).getTime();
+window.countDownDate = new Date(2019,3,30).getTime();
 
 
 // Update the count down every 1 second
