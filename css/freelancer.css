@@ -58,11 +58,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #2e8977;
+  border-color: #520277;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2e8977;
+  color: #520277;
 }
 .img-centered {
   margin: 0 auto;
@@ -302,7 +302,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2e8977;
+  background-color: #520277;
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -329,8 +329,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #2e8977;
-  border-color: #2e8977;
+  background-color: #520277;
+  border-color: #520277;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -362,11 +362,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #2e8977;
-  border-color: #2e8977;
+  background-color: #520277;
+  border-color: #520277;
 }
 .btn-primary .badge {
-  color: #2e8977;
+  color: #520277;
   background-color: white;
 }
 .btn-success {
@@ -480,7 +480,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2e8977;
+  background-color: #520277;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -491,7 +491,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2e8977;
+  background-color: #520277;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
