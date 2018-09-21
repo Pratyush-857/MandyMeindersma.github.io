@@ -1,4 +1,4 @@
-Welcome!
+Welcome! Hello World!
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
