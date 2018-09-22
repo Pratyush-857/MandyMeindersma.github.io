@@ -6,6 +6,28 @@ var cleanCSS = require('gulp-clean-css');
 var rename = require("gulp-rename");
 var uglify = require('gulp-uglify');
 var pkg = require('./package.json');
+var connect = require('gulp-connect');
+
+gulp.task('connect', function () {
+    connect.server({
+        root: './',
+        port: 8001,
+        livereload: true
+    });
+});
+
+
+// hopefully to get it to run locally
+// gulp.task('webserver', function() {
+//   gulp.src('./')
+//     .pipe(webserver({
+//       host: 'localhost',
+//       port: 8080,
+//       livereload: true,
+//       open: true
+//       //fallback: 'index.html'
+//     }));
+// });
 
 // Set the banner content
 var banner = ['/*!\n',
@@ -70,7 +92,7 @@ gulp.task('copy', function() {
 })
 
 // Run everything
-gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy']);
+gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy', 'connect']);
 
 // Configure the browserSync task
 gulp.task('browserSync', function() {
