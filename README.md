@@ -1,6 +1,6 @@
 Welcome!
 
-## Development:
+# Development:
 * fork repository
 * download:
     * npm install gulp-cli -g
@@ -9,8 +9,14 @@ Welcome!
     * npm install --save-dev gulp-connect
     * npm install --save-dev gulp-livereload
 * run `gulp` in command line
-* navigate to [](http://localhost:8001/) to see local copy
+* navigate to http://localhost:8001/ to see local copy
 * refresh to see new changes
+
+
+# colors:
+`#a0a3fd` - light background blue teal color - rgba(160, 163, 253)
+`#7377f9` - medium teal
+`#5b5ed3` - dark teal
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
