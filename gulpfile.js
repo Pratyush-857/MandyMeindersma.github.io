@@ -98,7 +98,7 @@ gulp.task('default', ['less', 'minify-css', 'minify-js', 'copy', 'connect']);
 gulp.task('browserSync', function() {
     browserSync.init({
         server: {
-            baseDir: ''
+            baseDir: './'
         },
     })
 })
