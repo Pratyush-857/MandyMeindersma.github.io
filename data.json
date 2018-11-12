@@ -5,7 +5,7 @@ var data = [
     "person": "Braedy",
     "amount": 437.9,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -14,7 +14,7 @@ var data = [
     "person": "Braedy",
     "amount": 559.59,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -77,7 +77,7 @@ var data = [
     "person": "Braedy",
     "amount": 598.49,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -140,7 +140,7 @@ var data = [
     "person": "Jo/Victor",
     "amount": 628.1,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -167,7 +167,7 @@ var data = [
     "person": "fred/Jo",
     "amount": 524.73,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -212,7 +212,7 @@ var data = [
     "person": "braedy",
     "amount": 445.97,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -275,7 +275,7 @@ var data = [
     "person": "victor",
     "amount": 580.6,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -338,7 +338,7 @@ var data = [
     "person": "victor",
     "amount": 273.62,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -401,7 +401,7 @@ var data = [
     "person": "jo+fred",
     "amount": 612.43,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -446,7 +446,7 @@ var data = [
     "person": "soroush/braedy",
     "amount": 585.45,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -482,7 +482,7 @@ var data = [
     "person": "jo/victor",
     "amount": 439.55,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -500,7 +500,7 @@ var data = [
     "person": "Mandy",
     "amount": 155,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -527,7 +527,7 @@ var data = [
     "person": "Mandy",
     "amount": 50,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -536,7 +536,7 @@ var data = [
     "person": "jo/fred",
     "amount": 733.9,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -599,7 +599,7 @@ var data = [
     "person": "jo/fred",
     "amount": 695.04,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -644,7 +644,7 @@ var data = [
     "person": "monica/preyanshu",
     "amount": 1174.34,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -671,7 +671,7 @@ var data = [
     "person": "Mandy",
     "amount": 1320,
     "income/expense": "expense",
-    "category": "Hoodies",
+    "category": "hoodies",
     "notes": ""
   },
   {
@@ -680,7 +680,7 @@ var data = [
     "person": "victor",
     "amount": 611.83,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -716,7 +716,7 @@ var data = [
     "person": "victor",
     "amount": 717.91,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -743,7 +743,7 @@ var data = [
     "person": "Victor",
     "amount": 820.06,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -923,7 +923,7 @@ var data = [
     "person": "Jo/Fred",
     "amount": 571.21,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -1049,7 +1049,7 @@ var data = [
     "person": "Jo/Fred",
     "amount": 769.87,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
@@ -1058,7 +1058,7 @@ var data = [
     "person": "Jo/Fred",
     "amount": 607.04,
     "income/expense": "expense",
-    "category": "Food",
+    "category": "food",
     "notes": ""
   },
   {
