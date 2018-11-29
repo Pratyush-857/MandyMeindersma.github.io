@@ -13,7 +13,7 @@
 
     let svg = d3.select('svg');
 
-    let propertyToColor = "category"; // e4.3
+    let propertyToColor = "category"; // e4.3 person
     let uniquePropertyValues = d3.map(data, d=>d[propertyToColor]).keys();
     let colorScale = d3.scaleOrdinal(d3.schemeCategory20);
     let binIndexByProperty = {};

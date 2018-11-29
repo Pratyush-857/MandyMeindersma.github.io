@@ -2,7 +2,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "July 6, 2017",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 437.9,
     "income/expense": "expense",
     "category": "food",
@@ -11,7 +11,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "August 23, 2017",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 559.59,
     "income/expense": "expense",
     "category": "food",
@@ -20,7 +20,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "August 26, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 21.91,
     "income/expense": "expense",
     "category": "supplies",
@@ -29,7 +29,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1000,
     "income/expense": "income",
     "category": "grants",
@@ -38,7 +38,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1000,
     "income/expense": "income",
     "category": "grants",
@@ -47,7 +47,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 189,
     "income/expense": "income",
     "category": "grants",
@@ -65,7 +65,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 8, 2017",
-    "person": "Preyanshu",
+    "person": "preyanshu",
     "amount": 219.8,
     "income/expense": "expense",
     "category": "lockers",
@@ -74,7 +74,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 12, 2017",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 598.49,
     "income/expense": "expense",
     "category": "food",
@@ -83,7 +83,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 12, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 322.11,
     "income/expense": "expense",
     "category": "orientation",
@@ -92,7 +92,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 12, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 790,
     "income/expense": "income",
     "category": "lockers",
@@ -110,7 +110,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 16, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 70,
     "income/expense": "income",
     "category": "lockers",
@@ -128,7 +128,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "September 21, 2017",
-    "person": "Preyanshu",
+    "person": "preyanshu",
     "amount": 3.4,
     "income/expense": "expense",
     "category": "printing",
@@ -155,7 +155,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1000,
     "income/expense": "income",
     "category": "grants",
@@ -164,7 +164,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 4, 2017",
-    "person": "fred/Jo",
+    "person": "fred/jo",
     "amount": 524.73,
     "income/expense": "expense",
     "category": "food",
@@ -182,7 +182,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 5, 2017",
-    "person": "souroush",
+    "person": "soroush",
     "amount": 0,
     "income/expense": "expense",
     "category": "cmput 469",
@@ -191,7 +191,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 11, 2017",
-    "person": "Kieran",
+    "person": "kieran",
     "amount": 3.4,
     "income/expense": "expense",
     "category": "printing",
@@ -200,7 +200,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 11, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 185,
     "income/expense": "income",
     "category": "lockers",
@@ -245,7 +245,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 16, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 40,
     "income/expense": "income",
     "category": "lockers",
@@ -281,7 +281,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "October 24, 2017",
-    "person": "Kieran",
+    "person": "kieran",
     "amount": 458.05,
     "income/expense": "income",
     "category": "buck-a-burg",
@@ -371,7 +371,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "November 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1000,
     "income/expense": "income",
     "category": "grants",
@@ -380,7 +380,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "November 1, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 312.5,
     "income/expense": "income",
     "category": "grants",
@@ -398,7 +398,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "November 9, 2017",
-    "person": "jo+fred",
+    "person": "fred/jo",
     "amount": 612.43,
     "income/expense": "expense",
     "category": "food",
@@ -452,7 +452,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "November 23, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 775,
     "income/expense": "income",
     "category": "hoodies",
@@ -470,7 +470,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "November 27, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 400,
     "income/expense": "income",
     "category": "hoodies",
@@ -497,7 +497,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 2, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 155,
     "income/expense": "expense",
     "category": "food",
@@ -506,7 +506,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 2, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 140,
     "income/expense": "income",
     "category": "hoodies",
@@ -524,7 +524,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 8, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 50,
     "income/expense": "expense",
     "category": "food",
@@ -533,7 +533,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 8, 2017",
-    "person": "jo/fred",
+    "person": "fred/jo",
     "amount": 733.9,
     "income/expense": "expense",
     "category": "food",
@@ -542,7 +542,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 8, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 215,
     "income/expense": "income",
     "category": "LAN",
@@ -551,7 +551,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 8, 2017",
-    "person": "Fred/Jo",
+    "person": "fred/jo",
     "amount": 0,
     "income/expense": "expense",
     "category": "supplies",
@@ -560,7 +560,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 8, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 159.99,
     "income/expense": "expense",
     "category": "loss",
@@ -578,7 +578,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 20, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 190,
     "income/expense": "income",
     "category": "LAN",
@@ -587,7 +587,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "December 20, 2017",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 10.55,
     "income/expense": "expense",
     "category": "supplies",
@@ -596,7 +596,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "January 11, 2018",
-    "person": "jo/fred",
+    "person": "fred/jo",
     "amount": 695.04,
     "income/expense": "expense",
     "category": "food",
@@ -614,7 +614,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "January 14, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 80,
     "income/expense": "income",
     "category": "lockers",
@@ -650,7 +650,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "January 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -668,7 +668,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "February 7, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1320,
     "income/expense": "expense",
     "category": "hoodies",
@@ -722,7 +722,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "February 28, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -749,7 +749,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 3, 2018",
-    "person": "Mandy/Kieran",
+    "person": "mandy/kieran",
     "amount": 72.14,
     "income/expense": "expense",
     "category": "supplies",
@@ -767,7 +767,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 6, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 470,
     "income/expense": "income",
     "category": "hoodies",
@@ -776,7 +776,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 6, 2018",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 300,
     "income/expense": "expense",
     "category": "grad",
@@ -785,7 +785,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 7, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 300,
     "income/expense": "income",
     "category": "hoodies",
@@ -803,7 +803,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 12, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 180,
     "income/expense": "income",
     "category": "hoodies",
@@ -812,7 +812,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 13, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 590,
     "income/expense": "income",
     "category": "hoodies",
@@ -821,7 +821,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 13, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 450,
     "income/expense": "income",
     "category": "hoodies",
@@ -857,7 +857,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 19, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 260,
     "income/expense": "income",
     "category": "hoodies",
@@ -884,7 +884,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 19, 2018",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 14.26,
     "income/expense": "expense",
     "category": "printing",
@@ -893,7 +893,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 20, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 45,
     "income/expense": "income",
     "category": "hoodies",
@@ -902,7 +902,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 20, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 100,
     "income/expense": "income",
     "category": "hoodies",
@@ -920,7 +920,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 23, 2018",
-    "person": "Jo/Fred",
+    "person": "fred/jo",
     "amount": 571.21,
     "income/expense": "expense",
     "category": "food",
@@ -938,7 +938,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 23, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 555,
     "income/expense": "expense",
     "category": "buck-a-burg",
@@ -947,7 +947,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 23, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 250,
     "income/expense": "income",
     "category": "grants",
@@ -956,7 +956,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 26, 2018",
-    "person": "Braedy",
+    "person": "braedy",
     "amount": 2.05,
     "income/expense": "expense",
     "category": "printing",
@@ -983,7 +983,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 30, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 997.25,
     "income/expense": "income",
     "category": "buck-a-burg",
@@ -992,7 +992,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "March 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1019,7 +1019,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 6, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 2444.87,
     "income/expense": "expense",
     "category": "hoodies",
@@ -1028,7 +1028,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 7, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 150,
     "income/expense": "income",
     "category": "grad",
@@ -1046,7 +1046,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 13, 2018",
-    "person": "Jo/Fred",
+    "person": "fred/jo",
     "amount": 769.87,
     "income/expense": "expense",
     "category": "food",
@@ -1055,7 +1055,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 13, 2018",
-    "person": "Jo/Fred",
+    "person": "fred/jo",
     "amount": 607.04,
     "income/expense": "expense",
     "category": "food",
@@ -1064,7 +1064,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 140,
     "income/expense": "income",
     "category": "lockers",
@@ -1073,7 +1073,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 21, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 50,
     "income/expense": "income",
     "category": "grad",
@@ -1082,7 +1082,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 24, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 900,
     "income/expense": "income",
     "category": "grad",
@@ -1091,7 +1091,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 24, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 50,
     "income/expense": "income",
     "category": "grad",
@@ -1100,7 +1100,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 27, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 150,
     "income/expense": "income",
     "category": "grad",
@@ -1109,7 +1109,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 30, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1118,7 +1118,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "April 30, 2018",
-    "person": "Kieran",
+    "person": "kieran",
     "amount": 10,
     "income/expense": "expense",
     "category": "loss",
@@ -1127,7 +1127,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "May 3, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1161.08,
     "income/expense": "expense",
     "category": "grad",
@@ -1136,7 +1136,7 @@ var data = [
   {
     "academic year": "2017-2018",
     "date": "May 3, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 15,
     "income/expense": "income",
     "category": "lockers",
@@ -1145,7 +1145,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "March 1, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 250,
     "income/expense": "income",
     "category": "grants",
@@ -1181,7 +1181,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "May 11, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 10,
     "income/expense": "income",
     "category": "lockers",
@@ -1190,7 +1190,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "May 14, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 10,
     "income/expense": "income",
     "category": "lockers",
@@ -1217,7 +1217,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "May 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1226,7 +1226,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "June 2, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 15,
     "income/expense": "income",
     "category": "lockers",
@@ -1235,7 +1235,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "June 30, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1244,7 +1244,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "July 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1253,7 +1253,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "August 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1262,7 +1262,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 1, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 15.94,
     "income/expense": "expense",
     "category": "supplies",
@@ -1298,7 +1298,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 6, 2018",
-    "person": "Kieran",
+    "person": "kieran",
     "amount": 13.57,
     "income/expense": "expense",
     "category": "cmput 469",
@@ -1352,7 +1352,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 20, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 415.74,
     "income/expense": "expense",
     "category": "food",
@@ -1388,7 +1388,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 21, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 674,
     "income/expense": "income",
     "category": "food",
@@ -1397,7 +1397,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 21, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1030,
     "income/expense": "income",
     "category": "lockers",
@@ -1433,7 +1433,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "September 30, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1460,7 +1460,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 3, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1049,
     "income/expense": "income",
     "category": "food",
@@ -1478,7 +1478,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 3, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 740,
     "income/expense": "income",
     "category": "hoodies",
@@ -1505,7 +1505,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 10, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 285,
     "income/expense": "income",
     "category": "food",
@@ -1514,7 +1514,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 10, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 360,
     "income/expense": "income",
     "category": "hoodies",
@@ -1541,7 +1541,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 11, 2018",
-    "person": "Jo/Fred",
+    "person": "fred/jo",
     "amount": 555.12,
     "income/expense": "expense",
     "category": "food",
@@ -1568,7 +1568,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 280,
     "income/expense": "income",
     "category": "food",
@@ -1577,7 +1577,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 40,
     "income/expense": "income",
     "category": "lockers",
@@ -1586,7 +1586,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 540,
     "income/expense": "income",
     "category": "hoodies",
@@ -1595,7 +1595,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 350,
     "income/expense": "income",
     "category": "grants",
@@ -1604,7 +1604,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 17, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 1000,
     "income/expense": "income",
     "category": "grants",
@@ -1613,7 +1613,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 18, 2018",
-    "person": "Kieran",
+    "person": "kieran",
     "amount": 8.15,
     "income/expense": "expense",
     "category": "cmput 469",
@@ -1631,7 +1631,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 24, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 362,
     "income/expense": "income",
     "category": "food",
@@ -1640,7 +1640,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 24, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 770,
     "income/expense": "income",
     "category": "hoodies",
@@ -1685,7 +1685,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 31, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 5.25,
     "income/expense": "expense",
     "category": "website",
@@ -1694,7 +1694,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "October 31, 2018",
-    "person": "Mandy/Victor",
+    "person": "mandy/Victor",
     "amount": 2523.41,
     "income/expense": "expense",
     "category": "hoodies",
@@ -1712,7 +1712,7 @@ var data = [
   {
     "academic year": "2018-2019",
     "date": "November 8, 2018",
-    "person": "Mandy",
+    "person": "mandy",
     "amount": 822,
     "income/expense": "income",
     "category": "food",
