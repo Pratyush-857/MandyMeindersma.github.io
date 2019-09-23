@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/meindersma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mandymeindersma.com
+  * I am meindersma (https://keybase.io/meindersma) on keybase.
+  * I have a public key ASDmLxHHWZelvt9fxmhMMkpE57UajnUTSQXiwXm2aTZKdwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034be4c0a787cc0d4fc5e8a135d8b884a8eb8d384f365de5ff8e4a5f97e9ee1a50a",
+      "host": "keybase.io",
+      "kid": "0120e62f11c75997a5bedf5fc6684c324a44e7b51a8e75134905e2c179b669364a770a",
+      "uid": "2770a64847f52ccc4520552711621d19",
+      "username": "meindersma"
+    },
+    "merkle_root": {
+      "ctime": 1569272837,
+      "hash": "5055bed66da66c0c0501801e018eabf587d2baad6ead2aa5f2b9de98940549e27a69b07b47b7bb62502aacfded9187ad7727c2906f313ec9d44b330cf258c3f7",
+      "hash_meta": "17e9dd11341887f34449f7510be87b5545986a4f9b2844f194cadf26550bbd5b",
+      "seqno": 7710063
+    },
+    "service": {
+      "entropy": "6UF83/7PYs3pbTfifxygv40J",
+      "hostname": "mandymeindersma.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569272849,
+  "expire_in": 504576000,
+  "prev": "ca794a549ff22eef1caa421dd04b55e5416b035ed7c6f7ae3fb74db8dc20da74",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5i8Rx1mXpb7fX8ZoTDJKROe1Go51E0kF4sF5tmk2SncKp3BheWxvYWTESpcCB8QgynlKVJ/yLu8cqkId0EtV5UFrA17XxveuP7dNuNwg2nTEIBNO4pWoyPs+P2KeDU4F6xXYB9qMhkU/ScdqBYsMtITIAgHCo3NpZ8RALEkbkeY2jIjD9pg0FMcZuqtVOpLwQGJReAqgMiEHt3CN1rh8BC+n/ZXDmywWyoNR2DHxJK509pPGXnGE2ZhWBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOvrhCDuC6PATVEnhdFKDzXOrgRQresH2DdBbinB63xNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/meindersma
+
+==================================================================
