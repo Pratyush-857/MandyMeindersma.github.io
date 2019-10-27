@@ -3,7 +3,7 @@
   "title": "Freelancer",
   "version": "3.3.7+1",
   "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "author": "Mandy Meindersma",
   "license": {
     "type": "MIT",
     "url": "https://github.com/MandyMeindersma/MandyMeindersma.github.io/blob/master/LICENSE"
@@ -20,7 +20,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.4",
     "gulp-webserver": "^0.9.1",
-    "jquery": "^1.11.3"
+    "jquery": "^1.11.3",
+    "lodash.template": ">=4.5.0"
   },
   "repository": {
     "type": "git",
