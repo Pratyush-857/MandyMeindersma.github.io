@@ -16,19 +16,6 @@ gulp.task('connect', function () {
     });
 });
 
-
-// hopefully to get it to run locally
-// gulp.task('webserver', function() {
-//   gulp.src('./')
-//     .pipe(webserver({
-//       host: 'localhost',
-//       port: 8080,
-//       livereload: true,
-//       open: true
-//       //fallback: 'index.html'
-//     }));
-// });
-
 // Set the banner content
 var banner = ['/*!\n',
     ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',

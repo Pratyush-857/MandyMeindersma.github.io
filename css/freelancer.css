@@ -6,6 +6,7 @@
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  font-display: swap;
 }
 p {
   font-size: 20px;
@@ -30,6 +31,7 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
+  font-display: swap;
 }
 hr.star-light,
 hr.star-primary {
@@ -44,6 +46,7 @@ hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
   font-family: FontAwesome;
+  font-display: swap;
   display: inline-block;
   position: relative;
   top: -0.8em;
@@ -83,6 +86,7 @@ header img {
 header .intro-text .name {
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-display: swap;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -106,6 +110,7 @@ header .intro-text .skills {
 .navbar-custom {
   background: #4d37fd;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-display: swap;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
