@@ -1,3 +1,8 @@
 .skills > a {
   color: white;
 }
+
+#portfolio .img-responsive {
+  background: #eaeaea;
+  min-height: 120px;
+}
