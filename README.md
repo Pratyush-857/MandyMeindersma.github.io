@@ -1,6 +1,8 @@
 Hello! This is my personal webpage. I first made this in my second year of university. I got a theme from bootstrap and have been editing it ever since. My Google lighthouse performance, accessibility and SEO (search engine optimization) scores are pretty great (all over 97 last I checked).
 
 ### Development:
+You have to be on node 11 or lower. 
+
 * npm install gulp-cli -g
 * npm install gulp -D
 * npm install gulp-connect

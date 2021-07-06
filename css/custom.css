@@ -1,5 +1,7 @@
-.skills > a {
+.skills > a,
+#about a {
   color: white;
+  text-decoration: underline;
 }
 
 #portfolio .img-responsive {
