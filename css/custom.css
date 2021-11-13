@@ -8,3 +8,7 @@
   background: #eaeaea;
   min-height: 120px;
 }
+
+.devpost {
+  overflow: visible !important;
+}
