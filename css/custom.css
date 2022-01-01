@@ -12,3 +12,11 @@
 .devpost {
   overflow: visible !important;
 }
+
+.navbar-nav {
+  margin-top: 0px;
+}
+
+.navbar-default .navbar-collapse {
+  border: none;
+}
