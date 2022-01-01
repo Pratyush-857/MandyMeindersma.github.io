@@ -1,7 +1,10 @@
-Hello! This is my personal webpage. I first made this in my second year of university. I got a theme from bootstrap and have been editing it ever since. My Google lighthouse performance, accessibility and SEO (search engine optimization) scores are pretty great (all over 97 last I checked).
+Hello! This is my personal webpage. I first made this in my second year of university. I got a theme from bootstrap and have been editing it ever since.
+
+### Lighthouse:
+My Google lighthouse performance, accessibility and SEO (search engine optimization) scores *used to* be pretty great (all over 97) but then they included Largest Contentful Paint and Cumulative Layout Shift in the metrics and I can't figure out how to fix the things :P. Everything else is at 100 though.
 
 ### Development:
-You have to be on node 11 or lower. 
+You have to be on node 11 or lower.
 
 * npm install gulp-cli -g
 * npm install gulp -D
