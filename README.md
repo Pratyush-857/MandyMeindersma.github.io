@@ -4,9 +4,8 @@ Hello! This is my personal webpage. I first made this in my second year of unive
 My Google lighthouse performance, accessibility and SEO (search engine optimization) scores *used to* be pretty great (all over 97) but then they included Largest Contentful Paint and Cumulative Layout Shift in the metrics and I can't figure out how to fix the things :P. Everything else is at 100 though.
 
 ### Development:
-You have to be on node 11 or lower.
-
 * npm install gulp-cli -g
+* npm install gulp-less
 * npm install gulp -D
 * npm install gulp-connect
 * npm install gulp-livereload
