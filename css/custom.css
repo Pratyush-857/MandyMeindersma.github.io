@@ -1,5 +1,6 @@
 .skills > a,
-#about a {
+#about a,
+.footer-above a {
   color: white;
   text-decoration: underline;
 }
