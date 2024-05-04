@@ -2,9 +2,11 @@ const center = [41.615791, -116.201579]
 const map = L.map("map").setView(center, 3); //[latitude, longitude], zoom
 
 const EdmontonAmii = [53.545703, -113.496414];
+const EdmontonAmiiKickstart = [53.540641606571, -113.492931031386];
 const HawaiiAAAI = [21.2826687, -157.8385384];
 const NewYorkCunyTechPrep = [40.743218055341, -74.009053862658];
 const MontrealCANCWIC = [45.4980116, -73.5714769];
+const HalifaxCANCWIC = [44.646589311141, -63.574683192919];
 const NewOrleansAAAI = [29.9475306, -90.0635043];
 const WaterlooEquithon = [43.471708, -80.543197];
 const LakeLouiseNEW = [51.417708, -116.21686];
@@ -33,31 +35,39 @@ function stylePopup(description) {
 
 const EdmontonAmiiMarker = L.marker(EdmontonAmii, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Alberta Machine Intelligence Institute Panel on working in the industry"));
+                            .bindPopup(stylePopup('<a href="https://site.pheedloop.com/event/TechAid2023/speakers" target="_blank">Alberta Machine Intelligence Institute Conference</a> on Open Source'));
+
+const EdmontonAmiiKickstartMarker = L.marker(EdmontonAmiiKickstart, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://www.amii.ca/" target="_blank">Alberta Machine Intelligence Institute</a> panel on my industry experience'));
 
 const HawaiiAAAIMarker = L.marker(HawaiiAAAI, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Association for the Advancement of Artificial Intelligence on Robotics"));
+                            .bindPopup(stylePopup('<a href="https://aaai.org/" target="_blank">Association for the Advancement of Artificial Intelligence</a> on Robotics'));
 
 const NewYorkCunyTechPrepMarker = L.marker(NewYorkCunyTechPrep, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("City University of New York on Open Source"));
+                            .bindPopup(stylePopup('<a href="https://cunytechprep.org/" target="_blank">City University of New York Tech Prep</a> on Open Source'));
 
 const MontrealCANCWICMarker = L.marker(MontrealCANCWIC, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Canadian Celebration of Women in Computing on my research on Cardiac Imaging Software"));
+                            .bindPopup(stylePopup('<a href="https://cscan-infocan.ca/celebration-of-women-in-computing/" target="_blank">Canadian Celebration of Women in Computing</a> on my research on Cardiac Imaging Software'));
+
+const HalifaxCANCWICMarker = L.marker(HalifaxCANCWIC, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://cscan-infocan.ca/celebration-of-women-in-computing/" target="_blank">Canadian Celebration of Women in Computing</a> on my internship experience at Intuit'));
 
 const NewOrleansAAAIMarker = L.marker(NewOrleansAAAI, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Association for the Advancement of Artificial Intelligence on making friendly robots for Autictic Children"));
+                            .bindPopup(stylePopup('<a href="https://aaai.org/" target="_blank">Association for the Advancement of Artificial Intelligence</a> on making friendly robots for children on the autism spectrum'));
 
 const WaterlooEquithonMarker = L.marker(WaterlooEquithon, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Equithon Hackathon on my winning project"));
+                            .bindPopup(stylePopup('<a href="https://equithon2018.devpost.com/" target="_blank">Equithon Hackathon</a> on my winning chat bot project'));
 
 const LakeLouiseNEWMarker = L.marker(LakeLouiseNEW, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup("Network of Empowered Women on my winning case study"));
+                            .bindPopup(stylePopup('<a href="https://www.networkofempoweredwomen.ca/" target="_blank">Network of Empowered Women</a> on my winning case study'));
 
 
 
