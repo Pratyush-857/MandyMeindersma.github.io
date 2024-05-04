@@ -1,8 +1,10 @@
 const center = [41.615791, -116.201579]
 const map = L.map("map").setView(center, 3); //[latitude, longitude], zoom
 
-const EdmontonAmii = [53.545703, -113.496414];
 const EdmontonAmiiKickstart = [53.540641606571, -113.492931031386];
+const EdmontonGDGIWD = [53.540641606571, -113.492];
+const EdmontonAdasTeam = [53.522907, -113.525537];
+const EdmontonAmii = [53.545703, -113.496414];
 const HawaiiAAAI = [21.2826687, -157.8385384];
 const NewYorkCunyTechPrep = [40.743218055341, -74.009053862658];
 const MontrealCANCWIC = [45.4980116, -73.5714769];
@@ -10,6 +12,7 @@ const HalifaxCANCWIC = [44.646589311141, -63.574683192919];
 const NewOrleansAAAI = [29.9475306, -90.0635043];
 const WaterlooEquithon = [43.471708, -80.543197];
 const LakeLouiseNEW = [51.417708, -116.21686];
+
 
 L.tileLayer("https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
   attribution:
@@ -33,13 +36,23 @@ function stylePopup(description) {
 }
 
 
-const EdmontonAmiiMarker = L.marker(EdmontonAmii, {icon: micIcon})
-                            .addTo(map)
-                            .bindPopup(stylePopup('<a href="https://site.pheedloop.com/event/TechAid2023/speakers" target="_blank">Alberta Machine Intelligence Institute Conference</a> on Open Source'));
+
 
 const EdmontonAmiiKickstartMarker = L.marker(EdmontonAmiiKickstart, {icon: micIcon})
                             .addTo(map)
                             .bindPopup(stylePopup('<a href="https://www.amii.ca/" target="_blank">Alberta Machine Intelligence Institute</a> panel on my industry experience'));
+
+const EdmontonGDGIWDMarker = L.marker(EdmontonGDGIWD, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://gdg.community.dev/events/details/google-gdg-cloud-edmonton-presents-edmonton-iwd-dare-to-be/" target="_blank">Google Developer Group</a> on how to make a tech resume'));
+
+const EdmontonAdasTeamMarker = L.marker(EdmontonAdasTeam, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://adasteam.ca/" target="_blank">Adas Team</a> workshop on what type of dev students want to be'));
+
+const EdmontonAmiiMarker = L.marker(EdmontonAmii, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://site.pheedloop.com/event/TechAid2023/speakers" target="_blank">Alberta Machine Intelligence Institute Conference</a> on Open Source'));
 
 const HawaiiAAAIMarker = L.marker(HawaiiAAAI, {icon: micIcon})
                             .addTo(map)
