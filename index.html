@@ -57,6 +57,17 @@
   <!-- lazyload images -->
   <script src="/js/lazysizes.min.js" async></script>
 
+  <!-- maps -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    crossorigin=""
+  />
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    crossorigin=""
+  ></script>
+
 </head>
 
 <body id="page-top" class="index">
@@ -83,6 +94,9 @@
           </li>
           <li class="page-scroll">
             <a href="#about">About</a>
+          </li>
+          <li class="page-scroll">
+            <a href="#speakerMap">Speaker Map</a>
           </li>
         </ul>
       </div>
@@ -340,6 +354,24 @@
       </div>
     </div>
   </section>
+
+    <!-- Speaker Map Section -->
+    <section id="speakerMap">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2>Speaker Map</h2>
+            <hr class="star-primary">
+            <div class="col-lg-8 col-lg-offset-2">
+              <p>This is a map of all the locations I have spoke at and the event I did! Shout out to <a href="https://www.linkedin.com/in/courtneyyatteau/">Courtney Yatteau</a> for creating such a fun interactive workshop that sparked this!
+              </p>
+            </div>
+            <div class="col-lg-8 col-lg-offset-2" id="map">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
   <!-- Footer -->
   <footer class="text-center">
@@ -977,6 +1009,9 @@
 
   <!-- custom js -->
   <script defer src="js/collapse_logic.js"></script>
+
+    <!-- custom js for maps -->
+    <script defer src="js/maps.js"></script>
 
   <!-- Bootstrap Core JavaScript -->
   <script defer src="vendor/bootstrap/js/bootstrap.min.js"></script>
