@@ -1,0 +1,66 @@
+/* custom css */
+.skills > a,
+#about a,
+.footer-above a {
+  color: white;
+  text-decoration: underline;
+}
+
+#portfolio .img-responsive {
+  background: #eaeaea;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 9 / 6.5;
+}
+
+.devpost {
+  overflow: visible !important;
+}
+
+.navbar-nav {
+  margin-top: 0px;
+}
+
+.navbar-default .navbar-collapse {
+  border: none;
+}
+
+#map {
+  height: 300px;
+}
+
+/* All of the heights and widths below are to make sure the anchor tag scrolls to the correct position */
+
+/* mobile - small */
+@media (min-width: 576px) {
+  #portfolio .img-responsive {
+    /* border: solid red 2px; */
+    height: 288.883px;
+    width: 400px;
+  }
+}
+
+/* tablet - medium */
+@media (min-width: 768px) {
+  #portfolio .img-responsive {
+    /* border: solid blue 2px; */
+    height: 160px;
+    width: 220px;
+  }
+}
+
+/* small monitor - large */
+@media (min-width: 992px) {
+  #portfolio .img-responsive {
+    height: 212.95px;
+    width: 293.3px;
+  }
+}
+
+/* large monitor - extra large */
+@media (min-width: 1200px) {
+  #portfolio .img-responsive {
+    height: 261.11px;
+    width: 360px;
+  }
+}
