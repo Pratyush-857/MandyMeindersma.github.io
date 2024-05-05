@@ -54,19 +54,12 @@
   <!-- custom css -->
   <link href="/css/custom.css" rel="stylesheet">
 
+  <!-- maps -->
+  <link rel="preload" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
   <!-- lazyload images -->
   <script src="/js/lazysizes.min.js" async></script>
-
-  <!-- maps -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    crossorigin=""
-  />
-  <script
-    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-    crossorigin=""
-  ></script>
 
   <!-- Social Tags for sharing-->
   <meta property="og:title" content="Mandy Meindersma" />
@@ -1021,8 +1014,9 @@
   <!-- custom js -->
   <script defer src="js/collapse_logic.js"></script>
 
-    <!-- custom js for maps -->
-    <script defer src="js/maps.js"></script>
+  <!-- custom js for maps -->
+  <script defer src="js/maps.js"></script>
+  
 
   <!-- Bootstrap Core JavaScript -->
   <script defer src="vendor/bootstrap/js/bootstrap.min.js"></script>
