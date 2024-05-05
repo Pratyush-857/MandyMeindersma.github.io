@@ -40,7 +40,7 @@ gulp.task('less', function() {
 
 // Minify compiled CSS
 gulp.task('minify-css', function() {
-    return gulp.src('css/freelancer.css')
+    return gulp.src(['css/freelancer.css', 'css/custom.css'])
         .pipe(cleanCSS())
         .pipe(rename({ suffix: '.min' }))
         .pipe(gulp.dest('css'))
