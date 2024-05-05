@@ -1,9 +1,23 @@
 /* custom css */
-.skills > a,
 #about a,
 .footer-above a {
-  color: white;
   text-decoration: underline;
+  color: white;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+p a:hover {
+  text-decoration: underline;
+  color: #100181;
+}
+
+#about a:hover,
+.footer-above a:hover {
+  text-decoration: underline;
+  color: #a79cfe;
 }
 
 #portfolio .img-responsive {
