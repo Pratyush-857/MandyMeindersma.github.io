@@ -58,6 +58,35 @@ p a:hover {
   height: 300px;
 }
 
+header {
+  min-height: 100vh;
+  height: 100vh;
+}
+
+header .col-lg-12 .intro-text .name {
+  font-size: clamp(20px, 8vw, 55px);
+}
+
+header .col-lg-12 img {
+  width: 350px;
+  height: 430px;
+  border: 2px solid #FFFFFF; border-radius: 4px
+}
+
+@media (max-width: 768px) {
+  header .col-lg-12 img {
+    width: 300px;
+    height: 369px;
+  }
+}
+
+@media (min-width: 768px) {
+  header .container {
+    padding-top: 150px !important;
+  }
+}
+
+
 /* All of the heights and widths below are to make sure the anchor tag scrolls to the correct position */
 
 /* mobile - small */
