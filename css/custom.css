@@ -63,8 +63,18 @@ header {
   height: 100vh;
 }
 
+@media (max-width: 768px) {
+  header .col-lg-12 .intro-text {
+    margin-top: 70px;
+  }
+}
+
 header .col-lg-12 .intro-text .name {
   font-size: clamp(20px, 8vw, 55px);
+}
+
+header .col-lg-12 .intro-text .skills {
+  font-size: clamp(25px, 4vw, 30px);
 }
 
 header .col-lg-12 img {
