@@ -25,7 +25,7 @@ L.tileLayer("https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
 // https://tile.openstreetmap.org/{z}/{x}/{y}.png
 
 var micIcon = L.icon({
-  iconUrl: 'img/mic.webp',
+  iconUrl: 'https://ik.imagekit.io/mandymeindersma/mic.webp',
   iconSize:     [40, 40], // size of the icon
   iconAnchor:   [7, 30], // point of the icon which will correspond to marker's location
   popupAnchor:  [25, -20] // point from which the popup should open relative to the iconAnchor
