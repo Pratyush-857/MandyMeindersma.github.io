@@ -83,16 +83,6 @@ header .col-lg-12 img {
   border: 2px solid #FFFFFF; border-radius: 4px
 }
 
-body.body-height {
-  min-height: 4000px;
-}
-
-@media (max-width: 768px) {
-  body .body-height {
-    min-height: 9000px;
-  }
-}
-
 @media (max-width: 768px) {
   header .col-lg-12 img {
     width: 300px;
