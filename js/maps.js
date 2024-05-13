@@ -53,7 +53,7 @@ const EdmontonAdasTeamMarker = L.marker(EdmontonAdasTeam, {icon: micIcon})
 
 const EdmontonHardwareMarker = L.marker(EdmontonHardware, {icon: micIcon})
                             .addTo(map)
-                            .bindPopup(stylePopup('Hardware Meetup on my project to connect a rotary phone to my phone'));
+                            .bindPopup(stylePopup('Hardware Meetup on my project to connect a rotary phone to my cell phone'));
 
 const EdmontonAmiiMarker = L.marker(EdmontonAmii, {icon: micIcon})
                             .addTo(map)
