@@ -4,6 +4,7 @@ const map = L.map("map").setView(center, 3); //[latitude, longitude], zoom
 const EdmontonAmiiKickstart = [53.540641606571, -113.492931031386];
 const EdmontonGDGIWD = [53.540641606571, -113.492];
 const EdmontonAdasTeam = [53.522907, -113.525537];
+const EdmontonHardware = [53.546074, -113.49895];
 const EdmontonAmii = [53.545703, -113.496414];
 const HawaiiAAAI = [21.2826687, -157.8385384];
 const NewYorkCunyTechPrep = [40.743218055341, -74.009053862658];
@@ -49,6 +50,10 @@ const EdmontonGDGIWDMarker = L.marker(EdmontonGDGIWD, {icon: micIcon})
 const EdmontonAdasTeamMarker = L.marker(EdmontonAdasTeam, {icon: micIcon})
                             .addTo(map)
                             .bindPopup(stylePopup('<a href="https://adasteam.ca/" target="_blank">Adas Team</a> workshop on what type of dev students want to be'));
+
+const EdmontonHardwareMarker = L.marker(EdmontonHardware, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('Hardware Meetup on my project to connect a rotary phone to my phone'));
 
 const EdmontonAmiiMarker = L.marker(EdmontonAmii, {icon: micIcon})
                             .addTo(map)
