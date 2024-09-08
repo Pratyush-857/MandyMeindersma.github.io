@@ -1,6 +1,7 @@
 /* custom css */
 #about a,
-.footer-above a {
+.footer-above a,
+span a {
   text-decoration: underline;
   color: white;
 }
@@ -15,7 +16,8 @@ p a:hover {
 }
 
 #about a:hover,
-.footer-above a:hover {
+.footer-above a:hover,
+span a:hover {
   text-decoration: underline;
   color: #a79cfe;
 }
