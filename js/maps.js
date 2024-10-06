@@ -4,10 +4,13 @@ const map = L.map("map").setView(center, 3); //[latitude, longitude], zoom
 const EdmontonAmiiKickstart = [53.540641606571, -113.492931031386];
 const EdmontonGDGIWD = [53.540641606571, -113.492];
 const EdmontonAdasTeam = [53.522907, -113.525537];
+const EdmontonAdasTeamResume = [53.522907, -113.525];
 const EdmontonHardware = [53.546074, -113.49895];
 const EdmontonAmii = [53.545703, -113.496414];
 const HawaiiAAAI = [21.2826687, -157.8385384];
 const NewYorkCunyTechPrep = [40.743218055341, -74.009053862658];
+const NewYorkCunyTechPrepAmazon = [40.751888212167, -73.983248329714];
+const NewYorkBreakThroughTechPrep = [40.756137166524, -73.956088029759];
 const MontrealCANCWIC = [45.4980116, -73.5714769];
 const HalifaxCANCWIC = [44.646589311141, -63.574683192919];
 const NewOrleansAAAI = [29.9475306, -90.0635043];
@@ -51,6 +54,10 @@ const EdmontonAdasTeamMarker = L.marker(EdmontonAdasTeam, {icon: micIcon})
                             .addTo(map)
                             .bindPopup(stylePopup('<a href="https://adasteam.ca/" target="_blank">Adas Team</a> workshop on what type of dev students want to be'));
 
+const EdmontonAdasTeamResumeMarker = L.marker(EdmontonAdasTeamResume, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://adasteam.ca/" target="_blank">Adas Team</a> workshop on technical resumes'));
+
 const EdmontonHardwareMarker = L.marker(EdmontonHardware, {icon: micIcon})
                             .addTo(map)
                             .bindPopup(stylePopup('Hardware Meetup on my project to connect a rotary phone to my cell phone'));
@@ -66,6 +73,14 @@ const HawaiiAAAIMarker = L.marker(HawaiiAAAI, {icon: micIcon})
 const NewYorkCunyTechPrepMarker = L.marker(NewYorkCunyTechPrep, {icon: micIcon})
                             .addTo(map)
                             .bindPopup(stylePopup('<a href="https://cunytechprep.org/" target="_blank">City University of New York Tech Prep</a> on Open Source'));
+
+const NewYorkCunyTechPrepAmazonMarker = L.marker(NewYorkCunyTechPrepAmazon, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://cunytechprep.org/" target="_blank">City University of New York Tech Prep</a> on Types of Developers'));
+
+const NewYorkBreakThroughTechPrepMarker = L.marker(NewYorkBreakThroughTechPrep, {icon: micIcon})
+                            .addTo(map)
+                            .bindPopup(stylePopup('<a href="https://www.breakthroughtech.org/" target="_blank">Break Through Tech Prep</a> on Nailing a Technical Interview'));
 
 const MontrealCANCWICMarker = L.marker(MontrealCANCWIC, {icon: micIcon})
                             .addTo(map)
