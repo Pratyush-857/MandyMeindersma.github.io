@@ -113,6 +113,31 @@ function init() {
 
   function visualizeNorthAndSouth() {
     clearMap();
+
+    L.polyline([[40.50, -73.7], [40.50, -74.4]]).addTo(map);
+    L.polyline([[40.55, -73.7], [40.55, -74.4]]).addTo(map);
+    L.polyline([[40.60, -73.7], [40.60, -74.4]]).addTo(map);
+    L.polyline([[40.65, -73.7], [40.65, -74.4]]).addTo(map);
+    L.polyline([[40.70, -73.7], [40.70, -74.4]]).addTo(map);
+    L.polyline([[40.75, -73.7], [40.75, -74.4]]).addTo(map);
+    L.polyline([[40.80, -73.7], [40.80, -74.4]]).addTo(map);
+    L.polyline([[40.85, -73.7], [40.85, -74.4]]).addTo(map);
+    L.polyline([[40.90, -73.7], [40.90, -74.4]]).addTo(map);
+
+    for(let i = 0; i < json.length; i++) {
+        let obj = json[i];
+
+        if (obj.Entrance_Latitude < 40.55 ||
+            obj.Entrance_Latitude > 40.6 && obj.Entrance_Latitude < 40.65 ||
+            obj.Entrance_Latitude > 40.7 && obj.Entrance_Latitude < 40.75 || 
+            obj.Entrance_Latitude > 40.8 && obj.Entrance_Latitude < 40.85 || 
+            obj.Entrance_Latitude > 40.9 && obj.Entrance_Latitude < 40.95 
+        ) {
+            L.marker([obj.Entrance_Latitude, obj.Entrance_Longitude], {icon: purpleCircleIcon}).addTo(map)
+        } else {
+            L.marker([obj.Entrance_Latitude, obj.Entrance_Longitude], {icon: pinkCircleIcon}).addTo(map)
+        }
+    }
   }
 
   function visualizeGay() {
